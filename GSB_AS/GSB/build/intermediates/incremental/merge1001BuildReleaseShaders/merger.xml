@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\edit\demo\GSB_AS\GSB\src\main\shaders"/></dataSet><dataSet config="1001"><source path="D:\edit\demo\GSB_AS\GSB\src\1001\shaders"/></dataSet><dataSet config="buildRelease"><source path="D:\edit\demo\GSB_AS\GSB\src\buildRelease\shaders"/></dataSet><dataSet config="1001BuildRelease"><source path="D:\edit\demo\GSB_AS\GSB\src\1001BuildRelease\shaders"/></dataSet></merger>

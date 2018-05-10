@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:CircleIndicator="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.gaoshoubang.widget.circleindicator.CircleIndicator
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="60dp"
+        CircleIndicator:ci_background="#b22e9cd0"
+        CircleIndicator:ci_gravity="center"
+        CircleIndicator:ci_margin="10dp"
+        CircleIndicator:ci_mode="outside"
+        CircleIndicator:ci_radius="5dp"
+        CircleIndicator:ci_selected_background="#da4415"/>
+
+</RelativeLayout>

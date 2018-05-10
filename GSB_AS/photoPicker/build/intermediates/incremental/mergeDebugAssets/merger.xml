@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\edit\demo\GSB_AS\photoPicker\src\main\assets"/><source path="D:\edit\demo\GSB_AS\photoPicker\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\edit\demo\GSB_AS\photoPicker\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,4 @@
+#Tue Mar 06 10:34:39 CST 2018
+base.0=D\:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\transforms\\dex\\1001\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=D\:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\transforms\\dex\\1001\\debug\\folders\\1000\\5\\slice_5\\classes.dex

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\progressbar_miss.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\anim\\progressbar_miss.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\progressbar_show.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\anim\\progressbar_show.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\anim_leave_from_bottom.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\anim\\anim_leave_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\left_exit.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\anim\\left_exit.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\anim_entry_from_bottom.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\anim\\anim_entry_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\right_enter.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\anim\\right_enter.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

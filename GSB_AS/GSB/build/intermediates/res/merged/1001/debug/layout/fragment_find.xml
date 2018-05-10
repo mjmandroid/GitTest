@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#f1f1f1"
+                android:orientation="vertical">
+
+    <View
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="#de4746"/>
+
+    <RelativeLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_below="@+id/title_bar"
+        android:background="#df4746">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="发现"
+            android:textColor="#fff"
+            android:textSize="17sp"/>
+    </RelativeLayout>
+
+    <com.andview.refreshview.XRefreshView
+        android:id="@+id/find_xrefreshview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title">
+
+        <ListView
+            android:id="@+id/find_news_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@null"
+            android:listSelector="#00000000">
+        </ListView>
+    </com.andview.refreshview.XRefreshView>
+
+    <com.gaoshoubang.widget.DragView
+        android:id="@+id/find_dragView"
+        android:layout_width="40dp"
+        android:layout_height="47dp"
+        android:background="@drawable/find_drag_img"
+        android:clickable="true"
+        />
+
+    <ViewStub
+        android:id="@+id/load_error_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:layout_marginTop="48dp"
+        android:layout="@layout/view_error_net"
+        android:visibility="gone"/>
+
+    <include
+        android:id="@+id/mask_login"
+        layout="@layout/mask_layer_login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\header_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\header_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\header_finish_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\header_finish_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    }
+]

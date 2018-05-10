@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical"
+              android:background="#EEEFF1"
+    >
+
+    <com.gaoshoubang.widget.CommonTitleBar
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#fff"
+        android:text="@string/activity_risk_assessment_title"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        app:isShowLeftText="true"
+        app:leftText="我的"/>
+
+    <FrameLayout
+        android:layout_below="@+id/title"
+        android:id="@+id/body_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        >
+    </FrameLayout>
+</LinearLayout>

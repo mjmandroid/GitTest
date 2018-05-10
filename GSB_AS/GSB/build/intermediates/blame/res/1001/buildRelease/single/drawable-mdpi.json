@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\fingerprint_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\fingerprint_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\transaction_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\transaction_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\gesture_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\gesture_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\risk_evaluation.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\risk_evaluation.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\black.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\black.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\phone.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\modification_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\modification_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\deposit.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\deposit.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-mdpi\\modified_data.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-mdpi\\modified_data.png"
+    }
+]

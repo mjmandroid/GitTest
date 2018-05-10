@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="rectangle">
+
+    <!--
+    <item>
+        <shape>
+            <solid android:color="#fff"/>
+        </shape>
+    </item>
+    <item android:bottom="@dimen/common_measure_10sp" android:left="@dimen/common_measure_10sp"
+          android:right="@dimen/common_measure_10sp" android:top="@dimen/common_measure_10sp">
+        <shape>
+
+            <solid android:color="@drawable/me_bg"/>
+
+            <padding android:bottom="10dp" android:left="10dp"
+                android:right="10dp" android:top="10dp"/>
+        </shape>
+    </item>
+    -->
+
+    <solid android:color="@android:color/transparent"/>
+    <!-- 填充颜色-透明 -->
+    <corners android:radius="3dp"/>
+    <!-- 圆角 -->
+    <size android:height="12dp"/>
+
+    <stroke
+        android:width="1dp"
+        android:color="#fff"/>
+    <!-- 描边 -->
+    <padding
+        android:bottom="3dp"
+        android:left="3dp"
+        android:right="3dp"
+        android:top="3dp"/>
+
+</shape>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\debug\\anim\\anim_entry_from_bottom.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\anim\\anim_entry_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\debug\\anim\\anim_leave_from_bottom.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\anim\\anim_leave_from_bottom.xml"
+    }
+]

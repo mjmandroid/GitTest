@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\raw\\gsb2_gaosouyi_com.pem",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\raw\\gsb2_gaosouyi_com.pem"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\raw\\horizontal.gif",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\bundles\\default\\res\\raw\\horizontal.gif"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\raw\\keep.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\raw\\circles.gif",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\bundles\\default\\res\\raw\\circles.gif"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\raw\\vertical.gif",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\bundles\\default\\res\\raw\\vertical.gif"
+    }
+]

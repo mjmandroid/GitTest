@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:gravity="center"
+              android:paddingLeft="60dp"
+              android:paddingRight="60dp"
+              android:background="@drawable/fingerprint_dialog_bg"
+    >
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/fingerprint_dialog_logo"/>
+
+    <TextView
+        android:id="@+id/tv_tips"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="通过手机已有指纹进行解锁"
+        />
+
+    <Button
+        android:padding="8dp"
+        android:id="@+id/fingerprint_dialog_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#1D7CFC"
+        android:textSize="18sp"
+        android:background="@null"
+        android:text="取消"
+        />
+
+</LinearLayout>

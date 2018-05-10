@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\incremental\\merge1001BuildReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

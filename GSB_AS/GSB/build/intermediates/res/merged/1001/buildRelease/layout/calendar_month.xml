@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gaoshoubang.widget.calendar.MonthView xmlns:android="http://schemas.android.com/apk/res/android"
+                                           android:layout_width="match_parent"
+                                           android:layout_height="wrap_content"
+                                           android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:gravity="left|center"
+        android:paddingLeft="10dp"
+        android:textColor="#a4a4a4"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#d4d4d4"/>
+
+    <com.gaoshoubang.widget.calendar.CalendarGridView
+        android:id="@+id/calendar_grid"
+        android:layout_width="match_parent"
+        android:layout_height="270dp">
+
+        <com.gaoshoubang.widget.calendar.CalendarRowView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <include layout="@layout/calendar_week"/>
+
+        <include layout="@layout/calendar_week"/>
+
+        <include layout="@layout/calendar_week"/>
+
+        <include layout="@layout/calendar_week"/>
+
+        <include layout="@layout/calendar_week"/>
+
+        <include layout="@layout/calendar_week"/>
+    </com.gaoshoubang.widget.calendar.CalendarGridView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginBottom="1dp"
+        android:background="#d4d4d4"/>
+
+</com.gaoshoubang.widget.calendar.MonthView>

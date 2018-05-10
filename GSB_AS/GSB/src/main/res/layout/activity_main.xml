@@ -1,0 +1,96 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#f3f3f3"
+              android:orientation="vertical">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/main_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#cdcdcd"/>
+    </android.support.v4.view.ViewPager>
+
+    <!-- android:layout_height="55dp"-->
+    <LinearLayout
+        android:id="@+id/menu_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+
+        >
+
+        <RadioButton
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/menu_comment"
+            style="@style/main_tab_bottom"
+            android:checked="true"
+            android:drawableTop="@drawable/selector_menu_comment"
+            android:text="推荐"
+            android:textColor="#DE4746"/>
+
+
+        <RadioButton
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/menu_product"
+            style="@style/main_tab_bottom"
+            android:drawableTop="@drawable/selector_menu_product"
+            android:text="产品"/>
+
+
+        <RadioButton
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/menu_find"
+            style="@style/main_tab_bottom"
+            android:drawableTop="@drawable/selector_menu_find"
+            android:text="发现"/>
+
+        <RelativeLayout
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:id="@+id/act_main_rl_container_my"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/menu_my"
+                style="@style/main_tab_bottom"
+                android:drawableTop="@drawable/selector_menu_my"
+                android:text="我的"/>
+
+            <ImageView
+                android:id="@+id/menu_my_msg_tag"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_marginLeft="-11dp"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/menu_my"
+                android:background="@drawable/shape_message_point_mainbar"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

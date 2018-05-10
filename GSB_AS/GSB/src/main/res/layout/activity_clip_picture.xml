@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#ccf1f1f1"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <com.gaoshoubang.widget.CommonTitleBar
+        android:id="@+id/clip_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#ffffff"
+        android:text="图片修改"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        app:isShowRightBtn="true"
+        app:rightBtnText="确定"
+        app:rightBtnTextColor="#333333"
+        app:rightBtnTextSize="14sp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/src_pic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:scaleType="matrix"/>
+
+        <com.gaoshoubang.widget.ClipView
+            android:id="@+id/clipview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </RelativeLayout>
+
+</LinearLayout>

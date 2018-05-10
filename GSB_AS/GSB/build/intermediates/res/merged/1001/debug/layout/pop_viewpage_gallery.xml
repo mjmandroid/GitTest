@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:clipChildren="false"
+             android:gravity="center"
+             android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/page_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clipChildren="false">
+
+        <com.gaoshoubang.widget.gallery.ClipViewPager
+            android:id="@+id/viewpager_gallery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:clipChildren="false"
+            android:overScrollMode="never"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/viewpager_gallery_close"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/ico_close_window"/>
+
+</FrameLayout>

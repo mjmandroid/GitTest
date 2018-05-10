@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/xrefreshview_footer_content"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center_vertical">
+
+    <com.andview.refreshview.progress.CircleProgress
+        android:id="@+id/xrefreshview_footer_progressbar"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@+id/xrefreshview_textview_content"/>
+
+    <RelativeLayout
+        android:id="@+id/xrefreshview_textview_content"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_centerInParent="true"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/xrefreshview_footer_click_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="加载更多内容"
+            android:textColor="#434343"
+            android:textSize="12sp"/>
+    </RelativeLayout>
+
+</RelativeLayout>

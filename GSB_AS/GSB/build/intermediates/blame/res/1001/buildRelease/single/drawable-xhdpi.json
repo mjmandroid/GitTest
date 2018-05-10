@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\phone.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\fingerprint_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\fingerprint_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\modified_data.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\modified_data.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\risk_evaluation.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\risk_evaluation.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\transaction_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\transaction_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\black.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\black.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\gesture_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\gesture_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\deposit.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\deposit.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable-xhdpi\\modification_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xhdpi\\modification_pwd.png"
+    }
+]

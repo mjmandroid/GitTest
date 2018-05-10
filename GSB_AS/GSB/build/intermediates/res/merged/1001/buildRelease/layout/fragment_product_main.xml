@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#ededed"
+              android:orientation="vertical">
+
+    <View
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="#df4746"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#df4746">
+
+        <com.gaoshoubang.widget.NavigationTabStrip
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/product_tab"
+            android:layout_width="167dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            app:nts_active_color="#ffffff"
+            app:nts_color="#ffffff"
+            app:nts_corners_radius="0dp"
+            app:nts_inactive_color="#ffb7b2"
+            app:nts_size="15sp"
+            app:nts_weight="3dp"/>
+
+        <ImageView
+            android:id="@+id/product_titlebar_que"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/protuct_que_icon"
+            android:textColor="#fff"
+            android:textSize="14sp"/>
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/product_viewpage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 自定义titlebar属性 -->
+    <declare-styleable name="TitleBar">
+        <attr name="android:text"/>
+        <attr name="android:textSize"/>
+        <attr name="android:textColor"/>
+        <attr name="isShowLeftText" format="boolean"/>
+        <attr name="leftText" format="string"/>
+        <attr name="leftTextColor" format="color|reference"/>
+        <attr name="leftTextSize" format="dimension"/>
+        <attr name="isShowRightBtn" format="boolean"/>
+        <attr name="rightBtnText" format="string"/>
+        <attr name="rightBtnTextColor" format="color|reference"/>
+        <attr name="rightBtnTextSize" format="dimension"/>
+        <attr name="isShowUnderSplitLine" format="boolean"/>
+    </declare-styleable>
+
+    <!-- CircleImageView -->
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension"/>
+        <attr name="border_color" format="color"/>
+    </declare-styleable>
+
+    <!-- 回款日历 -->
+    <declare-styleable name="CalendarPickerView">
+        <attr name="android:background"/>
+        <attr name="tsquare_dividerColor" format="color"/>
+        <attr name="tsquare_dayBackground" format="reference"/>
+        <attr name="tsquare_dayTextColor" format="color"/>
+        <attr name="tsquare_titleTextColor" format="color"/>
+        <attr name="tsquare_displayHeader" format="boolean"/>
+        <attr name="tsquare_headerTextColor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="calendar_cell">
+        <attr name="tsquare_state_selectable" format="boolean"/>
+        <attr name="tsquare_state_current_month" format="boolean"/>
+        <attr name="tsquare_state_today" format="boolean"/>
+        <attr name="tsquare_state_range_first" format="boolean"/>
+        <attr name="tsquare_state_range_middle" format="boolean"/>
+        <attr name="tsquare_state_range_last" format="boolean"/>
+        <attr name="tsquare_state_highlighted" format="boolean"/>
+    </declare-styleable>
+
+    <!-- 带数字的进度条 -->
+    <declare-styleable name="NumberProgressBar">
+        <attr name="progress_current" format="integer"/>
+        <attr name="progress_max" format="integer"/>
+        <attr name="progress_unreached_color" format="color"/>
+        <attr name="progress_reached_color" format="color"/>
+        <attr name="progress_reached_bar_height" format="dimension"/>
+        <attr name="progress_unreached_bar_height" format="dimension"/>
+        <attr name="progress_text_size" format="dimension"/>
+        <attr name="progress_text_color" format="color"/>
+        <attr name="progress_text_offset" format="dimension"/>
+        <attr name="progress_text_visibility" format="enum">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="Themes">
+        <attr name="numberProgressBarStyle" format="reference"/>
+    </declare-styleable>
+
+    <!-- 指示器 -->
+    <declare-styleable name="CircleIndicator">
+        <attr name="ci_radius" format="dimension"/>
+        <attr name="ci_margin" format="dimension"/>
+        <attr name="ci_background" format="color|integer"/>
+        <attr name="ci_selected_background" format="color|integer"/>
+        <attr name="ci_gravity">
+            <enum name="left" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+        <attr name="ci_mode">
+            <enum name="inside" value="0"/>
+            <enum name="outside" value="1"/>
+            <enum name="solo" value="2"/>
+        </attr>
+    </declare-styleable>
+
+    <!-- 指示器 -->
+    <declare-styleable name="NavigationTabStrip">
+        <attr name="nts_color" format="color"/>
+        <attr name="nts_size" format="dimension"/>
+        <attr name="nts_weight" format="dimension"/>
+        <attr name="nts_factor" format="float"/>
+        <attr name="nts_titles" format="reference"/>
+        <attr name="nts_type" format="enum">
+            <enum name="line" value="0"/>
+            <enum name="point" value="1"/>
+        </attr>
+        <attr name="nts_gravity" format="enum">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        <attr name="nts_typeface" format="string"/>
+        <attr name="nts_corners_radius" format="dimension"/>
+        <attr name="nts_animation_duration" format="integer"/>
+        <attr name="nts_inactive_color" format="color"/>
+        <attr name="nts_active_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="CountDownView">
+        <attr name="text" format="string"/>
+        <attr name="circle_border_width" format="dimension"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="background_color" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="circle_border_color" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="TabTipsView">
+        <attr name="index_text_size" format="dimension"/>
+        <attr name="count_text_size" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>

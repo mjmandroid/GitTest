@@ -1,0 +1,82 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+
+    <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="MainActivityTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
+    <style name="AppTheme_NotTranslucent" parent="android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="CustomProgressDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+
+        <item name="android:windowBackground">@color/custom_progress_bg</item>
+    </style>
+
+    <style name="line">
+        <item name="android:layout_height">2px</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">#dddddd</item>
+    </style>
+    <style name="lineSize">
+        <item name="android:layout_height">5px</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">#dddddd</item>
+    </style>
+
+    <style name="line2">
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">#dddddd</item>
+    </style>
+
+    <style name="line3">
+        <item name="android:layout_height">2px</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">#cdcdcd</item>
+    </style>
+
+    <style name="btn_style">
+        <item name="android:background">@drawable/btn_selector</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="btn_style2">
+        <item name="android:background">@drawable/shape_login_btn_nor</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <!-- calendar -->
+    <style name="CalendarCell">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">center</item>
+    </style>
+
+    <style name="CalendarCell.CalendarDate">
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:color">#434343</item>
+    </style>
+
+</resources>

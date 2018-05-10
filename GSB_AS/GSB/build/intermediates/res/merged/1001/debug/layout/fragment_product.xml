@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:xrefreshview="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ededed"
+                android:orientation="vertical">
+
+    <View
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="#df4746"/>
+
+    <TextView
+        android:layout_below="@id/title_bar"
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#df4746"
+        android:gravity="center"
+        android:text="产品列表"
+        android:textColor="#fff"
+        android:textSize="17sp"/>
+    <!--校正居中-->
+    <ImageView
+        android:layout_below="@id/title_bar"
+        android:layout_marginTop="15dp"
+        android:id="@+id/product_titlebar_que"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/protuct_que_icon"
+        android:textColor="#fff"
+        android:textSize="14sp"/>
+
+    <com.andview.refreshview.XRefreshView
+        android:layout_below="@id/tv_title"
+        android:id="@+id/product_xrefreshview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xrefreshview:isHeightMatchParent="true"
+        xrefreshview:isWidthMatchParent="true"
+        >
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#EDEDED"
+            android:id="@+id/recyclerView_product"
+            >
+
+        </android.support.v7.widget.RecyclerView>
+
+    </com.andview.refreshview.XRefreshView>
+
+    <ImageView
+        android:id="@+id/product_madel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_title"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/product_madel_icon"/>
+
+    <ViewStub
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/load_error_view"
+        android:layout="@layout/view_error_net"
+        />
+</RelativeLayout>

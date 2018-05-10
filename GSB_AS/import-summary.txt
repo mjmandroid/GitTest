@@ -1,0 +1,141 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From GSB:
+* bom.xml
+* ic_launcher-web.png
+* proguard-project.txt
+From PhotoPicker:
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* proguard-project.txt
+From ShareSDK:
+* ic_launcher-web.png
+* proguard-project.txt
+From XRefreshView:
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.+
+gson-2.8.0.jar => com.google.code.gson:gson:2.8.0
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.8.0.jar => version 2.8.0 in com.google.code.gson:gson:2.8.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In PhotoPicker:
+* AndroidManifest.xml => photoPicker\src\main\AndroidManifest.xml
+* assets\ => photoPicker\src\main\assets
+* res\ => photoPicker\src\main\res\
+* src\ => photoPicker\src\main\java\
+In ShareSDK:
+* AndroidManifest.xml => shareSDK\src\main\AndroidManifest.xml
+* assets\ => shareSDK\src\main\assets
+* libs\MobCommons-2016.1020.1028.jar => shareSDK\libs\MobCommons-2016.1020.1028.jar
+* libs\MobTools-2016.1020.1028.jar => shareSDK\libs\MobTools-2016.1020.1028.jar
+* libs\ShareSDK-Core-2.7.8.jar => shareSDK\libs\ShareSDK-Core-2.7.8.jar
+* libs\ShareSDK-QQ-2.7.8.jar => shareSDK\libs\ShareSDK-QQ-2.7.8.jar
+* libs\ShareSDK-QZone-2.7.8.jar => shareSDK\libs\ShareSDK-QZone-2.7.8.jar
+* libs\ShareSDK-SinaWeibo-2.7.8.jar => shareSDK\libs\ShareSDK-SinaWeibo-2.7.8.jar
+* libs\ShareSDK-Wechat-2.7.8.jar => shareSDK\libs\ShareSDK-Wechat-2.7.8.jar
+* libs\ShareSDK-Wechat-Core-2.7.8.jar => shareSDK\libs\ShareSDK-Wechat-Core-2.7.8.jar
+* libs\ShareSDK-Wechat-Moments-2.7.8.jar => shareSDK\libs\ShareSDK-Wechat-Moments-2.7.8.jar
+* res\ => shareSDK\src\main\res\
+* src\ => shareSDK\src\main\java
+In XRefreshView:
+* AndroidManifest.xml => xRefreshView\src\main\AndroidManifest.xml
+* assets\ => xRefreshView\src\main\assets
+* libs\android-support-v7-recyclerview.jar => xRefreshView\libs\android-support-v7-recyclerview.jar
+* res\ => xRefreshView\src\main\res\
+* src\ => xRefreshView\src\main\java\
+In GSB:
+* AndroidManifest.xml => GSB\src\main\AndroidManifest.xml
+* assets\ => GSB\src\main\assets\
+* libs\jpush-android-2.2.0.jar => GSB\libs\jpush-android-2.2.0.jar
+* libs\listViewAnimations.jar => GSB\libs\listViewAnimations.jar
+* libs\mpandroidchartlibrary-2-2-4.jar => GSB\libs\mpandroidchartlibrary-2-2-4.jar
+* libs\NineOldAndroid-2.4.0.jar => GSB\libs\NineOldAndroid-2.4.0.jar
+* libs\umeng-analytics-v6.0.4.jar => GSB\libs\umeng-analytics-v6.0.4.jar
+* libs\universal-image-loader-1.9.5.jar => GSB\libs\universal-image-loader-1.9.5.jar
+* libs\zxing-core-3.2.1.jar => GSB\libs\zxing-core-3.2.1.jar
+* res\ => GSB\src\main\res\
+* src\ => GSB\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

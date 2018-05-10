@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_camera.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\text_indicator_pressed.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\text_indicator_pressed.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_photo_loading.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\ic_photo_loading.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_unselected.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\btn_unselected.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_dir.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\ic_dir.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_back.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\btn_back.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_selected.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\btn_selected.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_dir_choose.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\ic_dir_choose.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\text_indicator_normal.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable-xhdpi\\text_indicator_normal.png"
+    }
+]

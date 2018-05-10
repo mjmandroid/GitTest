@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GSB/GSB.iml" filepath="$PROJECT_DIR$/GSB/GSB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GSB_AS.iml" filepath="$PROJECT_DIR$/GSB_AS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoPicker/photoPicker.iml" filepath="$PROJECT_DIR$/photoPicker/photoPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareSDK/shareSDK.iml" filepath="$PROJECT_DIR$/shareSDK/shareSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xRefreshView/xRefreshView.iml" filepath="$PROJECT_DIR$/xRefreshView/xRefreshView.iml" />
+    </modules>
+  </component>
+</project>

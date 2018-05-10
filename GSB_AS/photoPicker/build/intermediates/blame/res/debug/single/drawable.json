@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable\\layout_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable\\btn_select_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\action_btn.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable\\action_btn.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_camera_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable\\bg_camera_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_vertical_thumb.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\text_indicator_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\src\\main\\res\\drawable\\text_indicator_selector.xml"
+    }
+]

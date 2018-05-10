@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="custom_progress_bg">#33000000</color>
+    <!-- calendar -->
+    <color name="custom_background_today">#808080</color>
+    <color name="custom_background_disabled">#00000000</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="custom_text_inactive">#00000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="calendar_active_month_bg">#ffffff</color>
+    <color name="calendar_bg">#ffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="calendar_text_highlighted">#ff778088</color>
+    <color name="main_bg">#e5e5e5</color>
+    <color name="user_managersetting">#0cb5ec</color>
+    <color name="user_managerenot">#9999</color>
+    <color name="color_hint_1">#bcbcbc</color>
+    <color name="swipe_color5">#FF85AB98</color>
+
+    <!-- 通用字体颜色 -->
+    <color name="common_black_color_0">#ff000000</color>
+    <color name="common_black_color_3">#ff333333</color>
+    <color name="common_black_color_6">#ff666666</color>
+    <color name="common_black_color_9">#ff999999</color>
+    <color name="blue_color">#219df4</color>
+
+</resources>

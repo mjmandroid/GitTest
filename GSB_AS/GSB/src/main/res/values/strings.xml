@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+           tools:ignore="MissingTranslation">
+
+    <string name="app_name">高搜易理财</string>
+    <string name="rm_pro_intstRate">%1$s</string>
+    <string name="new_product_title_desc">(新手特权,专属加息)</string>
+    <string name="flexible_product_title_desc">(灵活存取,随心选择)</string>
+    <string name="stability_product_title_desc">(产品多样,稳健增值)</string>
+    <string name="hint_data_convert_error">数据解析错误</string>
+    <string name="title_activity_modify_info">ActivityModifyInfo</string>
+    <string name="password_expired_hint">密码过期,请修改密码!</string>
+
+
+    <string name="activity_user_manager_riskAss">投资人风险测评</string>
+    <string name="activity_risk_assessment_title">风险测评</string>
+    <string name="risk_assessment_hint">
+感谢您参与高搜易用户风险能力测评！通过本次风险能力测评，您可以系统了解自己的投资能力和特点，同时有助于投资风险意识的加强，从而选择适合自己的产品，让投资稳中得利。</string>
+    <string name="finish_risk_result_hint">风险测评类型结果为 : </string>
+    <string name="finish_risk_show_instruction"><u>查看风险提示书</u></string>
+
+
+    <string name="finish_risk_desc_prefix">结果分析:\n</string>
+    <string name="finish_risk_desc_conservative">您的投资行为较为谨慎，愿意用较小风险来保障投资资金的安全性。</string>
+    <string name="finish_risk_desc_prudent">您的投资行为较为稳重，能较好的权衡风险与收益。</string>
+    <!--<string name="finish_risk_desc_growth">您的投资行为较为踊跃，能在投资操作中接受一定的风险性。</string>-->
+    <string name="finish_risk_desc_growth">平台将以您的风险承受能力等级和产品类型、期限为基础，为您提供金融服务。若您的风险承受能力发生变化，请及时重新评估，建议您审慎评断自身风险承受能力并理性进行投资。</string>
+    <string name="finish_risk_desc_aggressive">您的投资行为较为激进，在投资过程中更加注重产品的高收益。</string>
+    <string name="finish_risk_show_hint">温馨提示:市场有风险,投资需谨慎</string>
+    <string name="finish_risk_to_invest">去投资</string>
+    <string name="finish_risk_redo">重新测评</string>
+
+
+</resources>

@@ -1,0 +1,733 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:2:1-405:12
+	package
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:3:11-36
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:6:5-8:40
+MERGED from [GSB_AS:photoPicker:unspecified] D:\edit\demo\GSB_AS\photoPicker\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [GSB_AS:xRefreshView:unspecified] D:\edit\demo\GSB_AS\xRefreshView\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [GSB_AS:shareSDK:unspecified] D:\edit\demo\GSB_AS\shareSDK\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ac759ee47d581bcc5e58c4cf9e33a4e852b04df2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\fedbcc9ea9ff874b26965033e8d3b48b6f90c24c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\2cccca00b73d053348993a8a63f2e93c328e397b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\26646d8b0ec51cc22dfe5ea2e307756c0217c20f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\8869ff5c4ee8f37805b55b04e1ad3ae699627e23\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\875c4306ea395dda031e376403560dad4d80efe1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\08178d6f4448e21c70121d3d169b56a7527073c7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\a391094f2f6f1da4145a1c10ab2df22f41ecbefa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\378906436d5d90721c9d4ad108954beef1b25bdb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\00ebcab7f4d8405ac509edf62e77257d152f6e73\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Administrator\.android\build-cache\fc9436f6806cadb5fe9708da90f2d9903d2ab225\output\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.2] C:\Users\Administrator\.android\build-cache\3d67161a80c6ebac5e2f9f38539f530eaad48f0a\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+permission#com.gaoshoubang.permission.JPUSH_MESSAGE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:11:5-13:46
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:12:9-64
+uses-permission#com.gaoshoubang.permission.JPUSH_MESSAGE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:15:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:16:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:17:5-66
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:18:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:19:5-74
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:20:5-80
+MERGED from [GSB_AS:photoPicker:unspecified] D:\edit\demo\GSB_AS\photoPicker\build\intermediates\bundles\default\AndroidManifest.xml:10:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:21:5-79
+MERGED from [GSB_AS:photoPicker:unspecified] D:\edit\demo\GSB_AS\photoPicker\build\intermediates\bundles\default\AndroidManifest.xml:9:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:22:5-72
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:22:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:23:5-65
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:24:5-83
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:25:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:26:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:27:5-77
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:27:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:29:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:30:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:30:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:31:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:32:5-76
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:31:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:32:5-88
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:32:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:33:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:33:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:35:22-65
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:36:5-73
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:36:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:37:5-70
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:37:22-68
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:39:5-73
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:39:22-71
+application
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:41:5-403:19
+MERGED from [GSB_AS:photoPicker:unspecified] D:\edit\demo\GSB_AS\photoPicker\build\intermediates\bundles\default\AndroidManifest.xml:13:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ac759ee47d581bcc5e58c4cf9e33a4e852b04df2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\fedbcc9ea9ff874b26965033e8d3b48b6f90c24c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\2cccca00b73d053348993a8a63f2e93c328e397b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\26646d8b0ec51cc22dfe5ea2e307756c0217c20f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\8869ff5c4ee8f37805b55b04e1ad3ae699627e23\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\875c4306ea395dda031e376403560dad4d80efe1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\08178d6f4448e21c70121d3d169b56a7527073c7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\378906436d5d90721c9d4ad108954beef1b25bdb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\00ebcab7f4d8405ac509edf62e77257d152f6e73\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Administrator\.android\build-cache\fc9436f6806cadb5fe9708da90f2d9903d2ab225\output\AndroidManifest.xml:9:5-20
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:37:5-122:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.2] C:\Users\Administrator\.android\build-cache\3d67161a80c6ebac5e2f9f38539f530eaad48f0a\output\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:45:9-41
+	android:allowBackup
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:44:9-45
+	android:theme
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:46:9-40
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:42:9-39
+activity#com.gaoshoubang.ui.welcome.activity.WelcomeActivity
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:47:9-57:20
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:50:13-49
+	android:allowBackup
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:49:13-39
+	android:theme
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:51:13-59
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:48:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:55:27-74
+receiver#com.gaoshoubang.receiver.PermanentBroadcastReceiver
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:59:9-61:37
+	android:enabled
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:61:13-35
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:60:13-64
+activity#com.gaoshoubang.ui.common.activities.WebActivityShow
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:63:9-66:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:66:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:65:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:64:13-65
+activity#com.gaoshoubang.ui.main.activities.MainActivity
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:67:9-70:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:70:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:68:13-60
+activity#com.gaoshoubang.ui.password.activities.ActivityFindPwd
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:72:9-75:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:75:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:74:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:73:13-67
+activity#com.gaoshoubang.ui.password.activities.ActivityFindPwd2
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:77:9-80:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:80:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:79:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:78:13-68
+activity#com.gaoshoubang.ui.registration.activities.ActivityBinDing
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:82:9-85:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:85:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:84:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:83:13-71
+activity#com.gaoshoubang.ui.registration.activities.ActivityBinDing2
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:87:9-90:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:90:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:89:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:88:13-72
+activity#com.gaoshoubang.ui.registration.activities.ActivityBindUser
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:92:9-95:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:95:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:94:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:93:13-72
+activity#com.gaoshoubang.ui.faq.activities.ActivityFeedback
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:97:9-100:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:100:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:99:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:98:13-63
+activity#com.gaoshoubang.ui.faq.activities.ActivityMore
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:102:9-105:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:105:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:104:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:103:13-59
+activity#com.gaoshoubang.ui.faq.activities.ActivityCommonProblem
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:107:9-110:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:110:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:109:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:108:13-68
+activity#com.gaoshoubang.ui.setting.activities.ActivityUserManager
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:112:9-115:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:115:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:114:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:113:13-70
+activity#com.gaoshoubang.ui.information.activities.ActivitySetGender
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:117:9-120:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:120:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:119:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:118:13-72
+activity#com.gaoshoubang.ui.password.activities.ActivitySetPasswd
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:122:9-125:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:125:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:124:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:123:13-69
+activity#com.gaoshoubang.ui.faq.activities.ActivityAbout
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:135:9-138:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:138:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:137:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:136:13-60
+activity#com.gaoshoubang.ui.information.activities.ActivityInformation
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:140:9-143:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:143:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:142:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:141:13-74
+activity#com.gaoshoubang.ui.information.activities.ActivityClipPicture
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:151:9-154:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:154:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:153:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:152:13-74
+activity#com.gaoshoubang.ui.login.activities.ActivityLogin
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:166:9-170:69
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:169:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:168:13-43
+	android:windowSoftInputMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:170:13-67
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:167:13-62
+activity#com.gaoshoubang.ui.registration.activities.ActivityRegister
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:172:9-176:69
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:175:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:174:13-43
+	android:windowSoftInputMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:176:13-67
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:173:13-72
+activity#com.gaoshoubang.ui.common.activities.ActivityCalendar
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:178:9-181:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:181:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:180:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:179:13-66
+activity#com.gaoshoubang.ui.common.activities.ActivityLock
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:183:9-186:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:186:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:185:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:184:13-62
+activity#com.gaoshoubang.ui.setting.activities.ActivityUserVerification
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:188:9-191:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:191:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:190:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:189:13-75
+activity#com.gaoshoubang.ui.common.activities.ActivityShare
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:199:9-202:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:202:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:201:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:200:13-63
+activity#com.gaoshoubang.ui.information.activities.ActivityAddress
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:204:9-207:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:207:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:206:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:205:13-70
+activity#com.gaoshoubang.ui.common.activities.ActivityAsset
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:209:9-212:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:212:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:211:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:210:13-63
+activity#com.gaoshoubang.ui.common.activities.ActivityMessage
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:214:9-217:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:217:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:216:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:215:13-65
+activity#com.gaoshoubang.ui.common.activities.ActivityNews
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:219:9-222:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:222:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:221:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:220:13-62
+activity#com.photopicker.PhotoPickerActivity
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:224:9-227:51
+MERGED from [GSB_AS:photoPicker:unspecified] D:\edit\demo\GSB_AS\photoPicker\build\intermediates\bundles\default\AndroidManifest.xml:16:9-19:20
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:227:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:226:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:225:13-63
+activity#com.gaoshoubang.ui.common.activities.ActivityTransactionRecord
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:229:9-232:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:232:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:231:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:230:13-75
+activity#com.gaoshoubang.ui.assessment.activities.ActivityRiskAssessment
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:234:9-237:51
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:237:13-49
+	android:launchMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:236:13-43
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:235:13-76
+service#com.gaoshoubang.service.LogService
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:238:9-54
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:238:18-52
+service#com.gaoshoubang.service.LoginService
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:239:9-56
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:239:18-54
+activity#com.mob.tools.MobUIShell
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:241:9-257:20
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:244:13-49
+	android:windowSoftInputMode
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:246:13-67
+	android:configChanges
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:243:13-74
+	android:theme
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:245:13-72
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:242:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:247:13-256:29
+data
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:250:17-59
+	android:scheme
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:250:23-57
+action#android.intent.action.VIEW
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:252:17-68
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:252:25-66
+category#android.intent.category.BROWSABLE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:254:17-77
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:254:27-75
+category#android.intent.category.DEFAULT
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:255:17-75
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:255:27-73
+activity#com.gaoshoubang.wxapi.WXEntryActivity
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:260:9-265:74
+	android:screenOrientation
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:264:13-49
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:263:13-36
+	android:configChanges
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:262:13-74
+	android:theme
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:265:13-72
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:261:13-50
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:271:9-275:20
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:40:9-43:52
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:273:13-37
+	android:theme
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:274:13-49
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:272:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:278:9-289:20
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:46:9-57:20
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:281:13-37
+	android:configChanges
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:280:13-63
+	android:theme
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:282:13-60
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:279:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.gaoshoubang
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:283:13-288:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:284:17-74
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:284:25-72
+category#com.gaoshoubang
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:287:17-59
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:287:27-57
+service#cn.jpush.android.service.DownloadService
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:291:9-295:19
+	android:enabled
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:293:13-35
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:294:13-37
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:292:13-68
+service#cn.jpush.android.service.PushService
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:298:9-308:19
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:60:9-71:19
+	android:enabled
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:300:13-35
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:64:13-40
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:301:13-37
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:299:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:302:13-307:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:303:17-74
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:303:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:304:17-72
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:304:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:305:17-77
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:305:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:306:17-75
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:306:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:312:9-321:19
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:75:9-84:19
+	android:enabled
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:314:13-35
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:315:13-36
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:313:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.gaoshoubang
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:316:13-320:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:317:17-79
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:317:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:324:9-344:20
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:87:9-107:20
+	android:enabled
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:326:13-35
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:91:13-40
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:327:13-37
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:325:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.gaoshoubang
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:328:13-332:29
+	android:priority
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:328:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:329:17-93
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:329:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:333:13-336:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:334:17-76
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:334:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:335:17-78
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:335:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:338:13-343:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:339:17-77
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:339:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:340:17-79
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:340:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:347:9-349:39
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:110:9-112:40
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:349:13-37
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:348:13-66
+receiver#com.gaoshoubang.receiver.JpushReceiver
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:351:9-366:20
+	android:enabled
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:353:13-35
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:354:13-37
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:352:13-51
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION+com.gaoshoubang
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:355:13-365:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:356:17-78
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:356:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:357:17-80
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:357:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:358:17-82
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:358:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:359:17-87
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:359:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:360:17-85
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:360:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:361:17-90
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:361:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:362:17-76
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:362:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:368:9-370:48
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:115:9-117:48
+	android:value
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:370:13-46
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:369:13-41
+meta-data#JPUSH_APPKEY
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:371:9-373:15
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:118:9-120:47
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] C:\Users\Administrator\.android\build-cache\633fa3ce02dd574fc6425eef5acef84376e24e2b\output\AndroidManifest.xml:120:13-44
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:372:13-40
+meta-data#UMENG_APPKEY
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:380:9-383:21
+	android:value
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:382:13-53
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:381:13-40
+meta-data#UMENG_CHANNEL
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:384:9-386:53
+	android:value
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:386:13-51
+		INJECTED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:385:13-41
+activity#com.gaoshoubang.ui.information.activities.ActivityModifyInfo
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:388:9-391:20
+	android:label
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:390:13-63
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:389:13-73
+provider#android.support.v4.content.FileProvider
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:393:9-401:20
+	android:authorities
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:395:13-63
+	android:grantUriPermissions
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:397:13-47
+	android:exported
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:396:13-37
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:394:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:398:13-400:53
+	android:resource
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:400:17-51
+	android:name
+		ADDED from D:\edit\demo\GSB_AS\GSB\src\main\AndroidManifest.xml:399:17-67
+uses-permission#android.permission.CAMERA
+ADDED from [GSB_AS:photoPicker:unspecified] D:\edit\demo\GSB_AS\photoPicker\build\intermediates\bundles\default\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [GSB_AS:photoPicker:unspecified] D:\edit\demo\GSB_AS\photoPicker\build\intermediates\bundles\default\AndroidManifest.xml:11:22-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ac759ee47d581bcc5e58c4cf9e33a4e852b04df2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\fedbcc9ea9ff874b26965033e8d3b48b6f90c24c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\2cccca00b73d053348993a8a63f2e93c328e397b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\26646d8b0ec51cc22dfe5ea2e307756c0217c20f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\8869ff5c4ee8f37805b55b04e1ad3ae699627e23\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\875c4306ea395dda031e376403560dad4d80efe1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\08178d6f4448e21c70121d3d169b56a7527073c7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\a391094f2f6f1da4145a1c10ab2df22f41ecbefa\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\378906436d5d90721c9d4ad108954beef1b25bdb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\00ebcab7f4d8405ac509edf62e77257d152f6e73\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\output\AndroidManifest.xml:26:9-47

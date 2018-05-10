@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 57,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 55,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 74,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a391094f2f6f1da4145a1c10ab2df22f41ecbefa\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 74,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 75,
+                    "endOffset": 884
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a391094f2f6f1da4145a1c10ab2df22f41ecbefa\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 75,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 889,
+                    "endColumn": 71,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a391094f2f6f1da4145a1c10ab2df22f41ecbefa\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 71,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 65,
+                    "endOffset": 1022
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a391094f2f6f1da4145a1c10ab2df22f41ecbefa\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 65,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1027,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1313
+                },
+                "from": {
+                    "file": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1318,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1473
+                },
+                "from": {
+                    "file": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

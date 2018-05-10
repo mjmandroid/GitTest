@@ -1,0 +1,157 @@
+apply plugin: 'com.android.application'
+def supportVersion = '25.3.1'
+
+def releaseTime() {
+    return new Date().format("yyyy-MM-dd", TimeZone.getTimeZone("UTC"))
+}
+
+android {
+//    signingConfigs {
+//        release {
+//            keyPassword 'GsY88888'
+//            storeFile file('E:/dabao/gaosouyi.jks')
+//            storePassword 'GsY88888'
+//            keyAlias 'gaosouyiforconsultant'
+//            v2SigningEnabled false
+//        }
+//    }
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        applicationId "com.gaoshoubang"
+        minSdkVersion 16
+        targetSdkVersion 21
+        versionCode = 463
+        versionName = "4.6.3"
+
+        ndk {
+            //选择要添加的对应cpu类型的.so库。
+            abiFilters 'armeabi', 'armeabi-v7a', 'arm64-v8a', 'x86'
+            // 还可以添加 'x86', 'x86_64', 'mips', 'mips64'
+        }
+        /*   <!-- 正式APPKEY 925a049f518b81a990083b44 -->
+           <!-- 测试APPKEY 1430e632496d846c105bfee9 -->*/
+        manifestPlaceholders = [
+                JPUSH_PKGNAME: applicationId,
+                JPUSH_APPKEY : "925a049f518b81a990083b44", //JPush上注册的包名对应的appkey.
+                JPUSH_CHANNEL: "developer-default", //用户渠道统计的渠道名称
+        ]
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            zipAlignEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+//        buildRelease {
+//            debuggable false
+//            // 混淆
+//            minifyEnabled true
+//            // 移除无用的resource文件
+//            shrinkResources true
+////            buildConfigField("String", 'FR_KEY', '"prod_fr"')
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+//            // there
+////            signingConfig signingConfigs.release
+//        }
+//        buildDubug {
+//            debuggable true
+//            // 混淆
+//            minifyEnabled false
+//            // 移除无用的resource文件
+//            shrinkResources false
+//            buildConfigField("String", 'FR_KEY', '"test_fr"')
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+//            // there
+//            signingConfig signingConfigs.release
+//        }
+        /**
+         * 自定义输出配置,这里我们加上APK版本号
+         */
+        applicationVariants.all { variant ->
+            variant.outputs.each { output ->
+                def outputFile = output.outputFile
+                if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                    def fileName = "GSB_v${defaultConfig.versionName}_${releaseTime()}_${variant.productFlavors[0].name}.apk"
+                    output.outputFile = new File(outputFile.parent, fileName)
+                }
+            }
+        }
+
+    }
+    /**
+     * 多渠道打包
+     */
+    productFlavors {
+
+        "1001" {}
+      /*  "1441977" {}
+        "1359649" {}
+        "1359648" {}
+        "1359631" {}
+        "1392765" {}
+        "1392766" {}
+        "1392773" {}
+        "1392775" {}
+        "1392776" {}
+        "1359646" {}
+        "1392767" {}
+        "1392768" {}
+        "1392771" {}
+        "1392772" {}
+        "1392774" {}
+        "1392777" {}
+        "1392778" {}
+        "1446284" {}
+        "1452228" {}
+        "1472752" {}*/
+
+
+        productFlavors.all {
+            flavor -> flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
+        }
+
+    }
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':photoPicker')
+    compile project(':xRefreshView')
+    compile project(':shareSDK')
+    compile "com.android.support:support-v4:${supportVersion}"
+    compile "com.android.support:appcompat-v7:${supportVersion}"
+    compile "com.android.support:appcompat-v7:${supportVersion}"
+    //    compile files('libs/jpush-android-2.2.0.jar')
+    compile files('libs/listViewAnimations.jar')
+    compile files('libs/mpandroidchartlibrary-2-2-4.jar')
+    compile files('libs/NineOldAndroid-2.4.0.jar')
+    compile files('libs/umeng-analytics-v6.0.4.jar')
+    compile files('libs/universal-image-loader-1.9.5.jar')
+    compile files('libs/zxing-core-3.2.1.jar')
+    //引入OKHTTP
+    compile "com.android.support:cardview-v7:${supportVersion}"
+    compile "com.android.support:recyclerview-v7:${supportVersion}"
+    //    compile 'com.android.support:support-annotations:22.2.0'
+    //    compile 'com.yuyh.easyguideview:library:1.2.2'
+    //    compile 'com.wanjian:sak:0.1.2.8'
+    compile 'com.google.code.gson:gson:2.8.0'
+    compile 'com.squareup.okhttp3:okhttp:3.7.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.1'
+    /*极光推送*/
+    compile 'cn.jiguang.sdk:jpush:3.0.5'
+    // 此处以JPush 3.0.5 版本为例。
+    compile 'cn.jiguang.sdk:jcore:1.1.2'
+    // 此处以JCore 1.1.2 版本为例。
+    //注解框架butterknife
+    //    compile 'com.jakewharton:butterknife:7.0.0'
+}

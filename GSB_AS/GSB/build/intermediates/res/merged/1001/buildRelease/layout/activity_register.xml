@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#f1f1f1"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <com.gaoshoubang.widget.CommonTitleBar
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#fff"
+        android:text="注册"
+        android:textColor="#333333"
+        android:textSize="16sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/register_ad_img"
+                android:layout_width="match_parent"
+                android:layout_height="112.5dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/shape_corner_bg"
+                android:padding="1dp"
+                android:scaleType="fitXY"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/shape_corner_bg"
+                android:orientation="vertical"
+                android:padding="1dp">
+
+                <TextView
+                    android:id="@+id/reg_mobile"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="16dp"
+                    android:textColor="#666666"
+                    android:textSize="14sp"/>
+
+                <View style="@style/line"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="16dp"
+                    android:paddingRight="16dp">
+
+                    <EditText
+                        android:id="@+id/reg_code"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:gravity="center_vertical"
+                        android:hint="请输入验证码"
+                        android:inputType="number"
+                        android:maxLength="6"
+                        android:textColor="#191919"
+                        android:textColorHint="#999999"
+                        android:textSize="15sp"/>
+
+                    <View
+                        android:layout_width="2px"
+                        android:layout_height="35dp"
+                        android:background="#999999"/>
+
+                    <TextView
+                        android:id="@+id/reg_code_time"
+                        android:layout_width="50dp"
+                        android:layout_height="25dp"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center"
+                        android:text="60s"
+                        android:textColor="#999999"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/reg_code_again"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        android:layout_marginLeft="6dp"
+                        android:background="@drawable/again_shape"
+                        android:gravity="center"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:text="重新获取"
+                        android:textColor="#fff"
+                        android:textSize="13sp"
+                        android:visibility="gone"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/reg_v_linear"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <View
+                        style="@style/line"
+                        android:layout_marginLeft="16dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:orientation="horizontal"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="收不到验证码？试试"
+                            android:textColor="#666666"
+                            android:textSize="13sp"/>
+
+                        <TextView
+                            android:id="@+id/reg_v_code"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="语音验证码"
+                            android:textColor="#13b3f0"
+                            android:textSize="13sp"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    style="@style/line"
+                    android:layout_marginLeft="16dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="11dp">
+
+                        <EditText
+                            android:id="@+id/reg_pwd"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@null"
+                            android:gravity="center_vertical"
+                            android:hint="请输入6-16位密码（空格、汉字除外）"
+                            android:inputType="textPassword"
+                            android:maxLength="16"
+                            android:textColor="#191919"
+                            android:textColorHint="#999999"
+                            android:textSize="15sp"/>
+
+                        <CheckBox
+                            android:id="@+id/reg_showpsd"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/selector_login_pwd_see"
+                            android:button="@null"
+                            android:checked="false"/>
+                    </LinearLayout>
+
+                    <View
+                        style="@style/line"
+                        android:layout_marginLeft="16dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:layout_margin="2dp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:paddingLeft="14dp"
+                        android:paddingRight="14dp">
+
+                        <EditText
+                            android:id="@+id/reg_rcmder"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@null"
+                            android:gravity="center_vertical"
+                            android:hint="推荐人邀请码（即高手码）选填"
+                            android:inputType="number"
+                            android:textColor="#191919"
+                            android:textColorHint="#999999"
+                            android:textSize="15sp"/>
+
+                        <ImageView
+                            android:id="@+id/reg_question"
+                            android:layout_width="26dp"
+                            android:layout_height="26dp"
+                            android:layout_marginLeft="10dp"
+                            android:padding="5dp"
+                            android:src="@drawable/icon_register_q"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RelativeLayout
+                        android:id="@+id/reg_question_rl"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="5dp"
+                        android:background="@drawable/item_lable_shape"
+                        android:visibility="gone">
+
+                        <ImageView
+                            android:id="@+id/reg_question_close"
+                            android:layout_width="25dp"
+                            android:layout_height="25dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentTop="true"
+                            android:padding="5dp"
+                            android:src="@drawable/icon_close"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:padding="8dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="3dp"
+                                android:text="您可以通过以下途径获取高手码:"
+                                android:textColor="#000000"
+                                android:textSize="13sp"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="3dp"
+                                android:text="1.找您在高搜易的好友获得;"
+                                android:textColor="#000000"
+                                android:textSize="12sp"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="2.联系客服获得;"
+                                android:textColor="#000000"
+                                android:textSize="12sp"/>
+                        </LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/reg_next"
+                style="@style/btn_style2"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:text="完成注册"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:gravity="center|bottom"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/login_bottm_icon_l"
+                    android:drawablePadding="3dp"
+                    android:drawableRight="@drawable/login_bottm_icon_r"
+                    android:text="发改委战略扶持,社科院专业指导"
+                    android:textColor="#999999"
+                    android:textSize="12sp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:drawableLeft="@drawable/login_bottm_icon"
+                    android:drawablePadding="5dp"
+                    android:text="双国资背景互联网金融平台"
+                    android:textColor="#999999"
+                    android:textSize="12sp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

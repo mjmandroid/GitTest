@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_address_street_wheel.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_address_street_wheel.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_recommend.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_recommend.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_guide_5.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_guide_5.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_find_footer.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_find_footer.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\xrefreshview_footer.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\bundles\\default\\res\\layout\\xrefreshview_footer.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_login_pwd.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_login_pwd.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_recommend.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_recommend.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_set_info.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_set_info.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_user_verification.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_user_verification.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_problem_content.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_problem_content.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\pop_viewpage_gallery.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\pop_viewpage_gallery.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_explanation.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_explanation.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\calendar_month.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\calendar_month.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_answer.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_answer.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_guide_4.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_guide_4.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\my_dialog.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\my_dialog.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_transaction_record.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_transaction_record.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_progressbar.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_progressbar.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_web_pdf_show.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_web_pdf_show.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_message.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_common_problem_header.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_common_problem_header.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_photo_picker.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\layout\\activity_photo_picker.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_address_wheel.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_address_wheel.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_about.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_binding.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_binding.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_photo_layout.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\layout\\item_photo_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_find_header.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_find_header.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_user_manager.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_user_manager.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_calendar.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_recharge.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_recharge.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_find_news.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_find_news.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_findpwd.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_findpwd.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\mask_layer_login.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\mask_layer_login.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_product.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_floder_layout.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\layout\\item_floder_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_share.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_product_all_title.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_product_all_title.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_finish_risk.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_finish_risk.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_product_all.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_product_all.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_login.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_asset.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_asset.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_risk_assessment.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_risk_assessment.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_message.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_message.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_asset_idle.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_asset_idle.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fingerprint_dialog.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fingerprint_dialog.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_camera_layout.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\layout\\item_camera_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_find.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_find.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\calendar_week.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\calendar_week.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_guide_2.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_guide_2.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_profit.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_profit.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_lock.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_lock.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\view_error_net.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\view_error_net.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_binding1.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_binding1.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fload_list_layout_stub.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\layout\\fload_list_layout_stub.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_findpwd1.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_findpwd1.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_product.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_profit.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_profit.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_news.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_feedback.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_modify_info.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_modify_info.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_app_update.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_app_update.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\mask_layer_rm.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\mask_layer_rm.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\tabbar_layout.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\layout\\tabbar_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_asset_amount.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_asset_amount.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_guide_1.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_guide_1.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_prompt.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_prompt.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_my.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_calendar_footer.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_calendar_footer.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_binding_user.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_binding_user.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_cannot_transact_type_time.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_cannot_transact_type_time.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_transaction_record_list.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_transaction_record_list.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_problem_nav.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_problem_nav.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_problem_title.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_problem_title.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_main.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_clip_picture.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_clip_picture.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_guide_3.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_guide_3.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\bank_deposit_dialog.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\bank_deposit_dialog.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_news.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_news.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_guide.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_sign.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_sign.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_register.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\item_calendar.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\item_calendar.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\appfiledown_notification.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\appfiledown_notification.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\xrefreshview_header.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\bundles\\default\\res\\layout\\xrefreshview_header.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_address.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_common_problem.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_common_problem.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fingerprint_guide_setting.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fingerprint_guide_setting.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_test_risk.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_test_risk.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_product_main.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_product_main.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_qrcode.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_qrcode.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_web_show.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_web_show.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_find_header_new.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_find_header_new.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\my_account_dialog.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\my_account_dialog.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\floderlist_layout.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\layout\\floderlist_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_information.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_information.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_set_passwd.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_set_passwd.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_more.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_set_gender.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_set_gender.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_sign.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_sign.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\fragment_asset_earnings.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\fragment_asset_earnings.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\activity_transaction_record.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\activity_transaction_record.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\layout\\dialog_share.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\layout\\dialog_share.xml"
+    }
+]

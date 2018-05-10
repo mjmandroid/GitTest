@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\indicator_normal_background.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\indicator_normal_background.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\product_fragment_indicator_selected.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\product_fragment_indicator_selected.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_asset_point_1.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_asset_point_1.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\bg_camera_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_camera_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\head_bg_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\head_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_share_invite_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_share_invite_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\wait_loading_anim.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\wait_loading_anim.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_asset_point_0.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_asset_point_0.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dialog_explanation_btn_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dialog_explanation_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\action_btn.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\drawable\\action_btn.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_menu_comment.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_menu_comment.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dashline_product.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dashline_product.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\jpush_richpush_btn_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_find_news_bg2.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_find_news_bg2.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_share_qq.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_share_qq.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dialog_explanation_btn_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dialog_explanation_btn_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\item_nor_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\item_nor_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\btn_me_loginstyle.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\btn_me_loginstyle.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\btn_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\btn_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\my_dialog.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\my_dialog.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\btn_select_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_select_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\calendar_text_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\calendar_text_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\scrollbar_vertical_thumb.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\btn_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dialog_cancel_btn_sel_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dialog_cancel_btn_sel_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\exercise_selected.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\exercise_selected.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\custom_calendar_text_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\custom_calendar_text_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_pre_question_bg_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_pre_question_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_title_back.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_title_back.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_share_message_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_share_message_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dialog_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dialog_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_login_btn_nor.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_login_btn_nor.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_product_item_circle.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_product_item_circle.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\jpush_richpush_progressbar.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_pre_question_bg_pressed.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_pre_question_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\progress_color_web_show.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\progress_color_web_show.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_asset_point_3.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_asset_point_3.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\guide_btn_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\guide_btn_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\cb_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\cb_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\custom_calendar_bg_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\custom_calendar_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_asset_point_4.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_asset_point_4.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_login_btn_sel.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_login_btn_sel.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\layout_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\drawable\\layout_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_lock_text_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_lock_text_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_title_share.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_title_share.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\guide_btn_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\guide_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\fingerprint_dialog_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\fingerprint_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dialog_share_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dialog_share_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_toast_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_toast_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\bg_circle_today.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\bg_circle_today.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_share_weibo.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_share_weibo.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_rm_bg2.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_rm_bg2.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\test_risk_ass_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\test_risk_ass_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\product_fragment_tab_indicator.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\product_fragment_tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\exercise_normal.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\exercise_normal.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_find_news_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_find_news_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\indicator_selected_background.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\indicator_selected_background.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_pre_question_bg_normal.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_pre_question_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_find_sign_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_find_sign_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_product_item_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_product_item_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_tag_bg_2.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_tag_bg_2.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_asset_point_6.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_asset_point_6.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_login_corner_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_login_corner_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_menu_my.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_menu_my.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\btn_shape_sel.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\btn_shape_sel.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_tag_bg_1.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_tag_bg_1.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dialog_cancel_btn_nor_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dialog_cancel_btn_nor_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\next_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\next_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\btn_red__bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\btn_red__bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\line_vertical.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\line_vertical.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\round_text_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\round_text_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_find_grade_name_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_find_grade_name_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_login_pwd_see.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_login_pwd_see.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\guide_btn_sel_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\guide_btn_sel_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_share_weixin.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_share_weixin.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\progress_app_update_color.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\progress_app_update_color.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\product_fragment_indicator_normal.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\product_fragment_indicator_normal.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_item_record_round.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_item_record_round.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\calendar_bg_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\calendar_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_find_share_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_find_share_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dialog_cancel_btn_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dialog_cancel_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\dialog_explanation_btn_sel_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\dialog_explanation_btn_sel_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_rm_nums.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_rm_nums.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\icon_share_url_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\icon_share_url_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\bg_circle_selected.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\bg_circle_selected.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_my_deposit.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_my_deposit.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\icon_share_sms_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\icon_share_sms_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\product_fragment_indicator_text_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\product_fragment_indicator_text_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\product_fragment_indicator_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\product_fragment_indicator_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_gray_round.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_gray_round.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\text_indicator_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\photoPicker\\build\\intermediates\\bundles\\default\\res\\drawable\\text_indicator_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\time_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\time_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\product_fragment_tab_indicator_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\product_fragment_tab_indicator_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_asset_point_5.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_asset_point_5.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_profit_btn.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_profit_btn.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_item_message_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_item_message_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\item_sel_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\item_sel_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_asset_point_2.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_asset_point_2.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_item_message_bg2.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_item_message_bg2.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_share_pyq.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_share_pyq.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_menu_product.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_menu_product.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_find_header_round.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_find_header_round.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_my_message_point.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_my_message_point.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e0586c796cf43fe6da2e3fe07c53870cbe5291f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\again_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\again_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\item_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_corner_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_corner_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\selector_menu_find.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\selector_menu_find.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_find_grade_bg.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_find_grade_bg.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\shape_message_point_mainbar.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\shape_message_point_mainbar.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\item_lable_shape.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\item_lable_shape.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\buildRelease\\drawable\\exercise_bg_selector.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable\\exercise_bg_selector.xml"
+    }
+]

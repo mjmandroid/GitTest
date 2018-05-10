@@ -1,0 +1,370 @@
+# view res/layout/fragment_find_header_new.xml #generated:10
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:406
+-keep class android.support.v4.content.FileProvider { <init>(...); }
+
+# view res/layout/activity_asset.xml #generated:67
+# view res/layout/activity_guide.xml #generated:8
+# view res/layout/activity_main.xml #generated:7
+# view res/layout/activity_transaction_record.xml #generated:38
+# view res/layout/fragment_product_main.xml #generated:45
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
+# view res/layout/abc_alert_dialog_material.xml #generated:52
+# view res/layout/abc_alert_dialog_material.xml #generated:66
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_select_dialog_material.xml #generated:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/item_product_all_title.xml #generated:2
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/fragment_product.xml #generated:47
+# view res/layout/fragment_test_risk.xml #generated:38
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:358
+-keep class cn.jpush.android.service.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:322
+-keep class cn.jpush.android.service.DaemonService { <init>(...); }
+
+# view AndroidManifest.xml #generated:300
+-keep class cn.jpush.android.service.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:334
+-keep class cn.jpush.android.service.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:307
+-keep class cn.jpush.android.service.PushService { <init>(...); }
+
+# view res/layout/jpush_webview_layout.xml #generated:2
+-keep class cn.jpush.android.ui.FullScreenView { <init>(...); }
+
+# view AndroidManifest.xml #generated:280
+-keep class cn.jpush.android.ui.PopWinActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:287
+-keep class cn.jpush.android.ui.PushActivity { <init>(...); }
+
+# view res/layout/activity_message.xml #generated:24
+# view res/layout/activity_news.xml #generated:24
+# view res/layout/activity_transaction_record_list.xml #generated:11
+# view res/layout/fragment_find.xml #generated:31
+# view res/layout/fragment_my.xml #generated:9
+# view res/layout/fragment_product.xml #generated:38
+# view res/layout/fragment_profit.xml #generated:8
+# view res/layout/fragment_recommend.xml #generated:16
+-keep class com.andview.refreshview.XRefreshView { <init>(...); }
+
+# view res/layout/fragment_my.xml #generated:14
+# view res/layout/fragment_profit.xml #generated:13
+# view res/layout/fragment_recommend.xml #generated:21
+-keep class com.andview.refreshview.XScrollView { <init>(...); }
+
+# view res/layout/xrefreshview_footer.xml #generated:8
+-keep class com.andview.refreshview.progress.CircleProgress { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.gaoshoubang.GsbApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:362
+-keep class com.gaoshoubang.receiver.JpushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.gaoshoubang.receiver.PermanentBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:247
+-keep class com.gaoshoubang.service.LogService { <init>(...); }
+
+# view AndroidManifest.xml #generated:248
+-keep class com.gaoshoubang.service.LoginService { <init>(...); }
+
+# view AndroidManifest.xml #generated:242
+-keep class com.gaoshoubang.ui.assessment.activities.ActivityRiskAssessment { <init>(...); }
+
+# view AndroidManifest.xml #generated:217
+-keep class com.gaoshoubang.ui.common.activities.ActivityAsset { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class com.gaoshoubang.ui.common.activities.ActivityCalendar { <init>(...); }
+
+# view AndroidManifest.xml #generated:191
+-keep class com.gaoshoubang.ui.common.activities.ActivityLock { <init>(...); }
+
+# view AndroidManifest.xml #generated:222
+-keep class com.gaoshoubang.ui.common.activities.ActivityMessage { <init>(...); }
+
+# view AndroidManifest.xml #generated:227
+-keep class com.gaoshoubang.ui.common.activities.ActivityNews { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class com.gaoshoubang.ui.common.activities.ActivityShare { <init>(...); }
+
+# view AndroidManifest.xml #generated:237
+-keep class com.gaoshoubang.ui.common.activities.ActivityTransactionRecord { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.gaoshoubang.ui.common.activities.WebActivityShow { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.gaoshoubang.ui.faq.activities.ActivityAbout { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.gaoshoubang.ui.faq.activities.ActivityCommonProblem { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.gaoshoubang.ui.faq.activities.ActivityFeedback { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.gaoshoubang.ui.faq.activities.ActivityMore { <init>(...); }
+
+# view AndroidManifest.xml #generated:212
+-keep class com.gaoshoubang.ui.information.activities.ActivityAddress { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.gaoshoubang.ui.information.activities.ActivityClipPicture { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.gaoshoubang.ui.information.activities.ActivityInformation { <init>(...); }
+
+# view AndroidManifest.xml #generated:401
+-keep class com.gaoshoubang.ui.information.activities.ActivityModifyInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class com.gaoshoubang.ui.information.activities.ActivitySetGender { <init>(...); }
+
+# view AndroidManifest.xml #generated:174
+-keep class com.gaoshoubang.ui.login.activities.ActivityLogin { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.gaoshoubang.ui.main.activities.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.gaoshoubang.ui.password.activities.ActivityFindPwd { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.gaoshoubang.ui.password.activities.ActivityFindPwd2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.gaoshoubang.ui.password.activities.ActivitySetPasswd { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.gaoshoubang.ui.registration.activities.ActivityBinDing { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.gaoshoubang.ui.registration.activities.ActivityBinDing2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.gaoshoubang.ui.registration.activities.ActivityBindUser { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.gaoshoubang.ui.registration.activities.ActivityRegister { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.gaoshoubang.ui.setting.activities.ActivityUserManager { <init>(...); }
+
+# view AndroidManifest.xml #generated:196
+-keep class com.gaoshoubang.ui.setting.activities.ActivityUserVerification { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.gaoshoubang.ui.welcome.activity.WelcomeActivity { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:63
+-keep class com.gaoshoubang.widget.CircleImageView { <init>(...); }
+
+# view res/layout/dialog_progressbar.xml #generated:20
+-keep class com.gaoshoubang.widget.CircleProgress { <init>(...); }
+
+# view res/layout/activity_binding_user.xml #generated:42
+# view res/layout/activity_modify_info.xml #generated:52
+# view res/layout/activity_set_info.xml #generated:53
+# view res/layout/activity_user_verification.xml #generated:66
+-keep class com.gaoshoubang.widget.ClearEditText { <init>(...); }
+
+# view res/layout/activity_clip_picture.xml #generated:34
+-keep class com.gaoshoubang.widget.ClipView { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:9
+# view res/layout/activity_address.xml #generated:11
+# view res/layout/activity_binding.xml #generated:9
+# view res/layout/activity_binding1.xml #generated:9
+# view res/layout/activity_binding_user.xml #generated:9
+# view res/layout/activity_calendar.xml #generated:10
+# view res/layout/activity_clip_picture.xml #generated:10
+# view res/layout/activity_common_problem.xml #generated:9
+# view res/layout/activity_feedback.xml #generated:9
+# view res/layout/activity_findpwd.xml #generated:9
+# view res/layout/activity_findpwd1.xml #generated:9
+# view res/layout/activity_information.xml #generated:9
+# view res/layout/activity_message.xml #generated:9
+# view res/layout/activity_modify_info.xml #generated:8
+# view res/layout/activity_more.xml #generated:10
+# view res/layout/activity_news.xml #generated:10
+# view res/layout/activity_register.xml #generated:9
+# view res/layout/activity_risk_assessment.xml #generated:12
+# view res/layout/activity_set_gender.xml #generated:9
+# view res/layout/activity_set_info.xml #generated:9
+# view res/layout/activity_set_passwd.xml #generated:9
+# view res/layout/activity_share.xml #generated:9
+# view res/layout/activity_transaction_record.xml #generated:10
+# view res/layout/activity_user_manager.xml #generated:14
+# view res/layout/activity_user_verification.xml #generated:9
+-keep class com.gaoshoubang.widget.CommonTitleBar { <init>(...); }
+
+# view res/layout/activity_welcome.xml #generated:56
+-keep class com.gaoshoubang.widget.CountDownView { <init>(...); }
+
+# view res/layout/fragment_find.xml #generated:46
+# view res/layout/fragment_recommend.xml #generated:194
+-keep class com.gaoshoubang.widget.DragView { <init>(...); }
+
+# view res/layout/activity_common_problem_header.xml #generated:7
+-keep class com.gaoshoubang.widget.HorizontalListView { <init>(...); }
+
+# view res/layout/fragment_recommend.xml #generated:175
+-keep class com.gaoshoubang.widget.MarqueeText { <init>(...); }
+
+# view res/layout/activity_user_manager.xml #generated:437
+# view res/layout/item_find_news.xml #generated:18
+# view res/layout/item_product.xml #generated:7
+# view res/layout/item_recommend.xml #generated:2
+-keep class com.gaoshoubang.widget.MaterialRippleLayout { <init>(...); }
+
+# view res/layout/activity_binding.xml #generated:96
+# view res/layout/activity_findpwd.xml #generated:31
+# view res/layout/activity_login.xml #generated:82
+# view res/layout/activity_login_pwd.xml #generated:27
+-keep class com.gaoshoubang.widget.MobileNumberEditText { <init>(...); }
+
+# view res/layout/activity_asset.xml #generated:52
+# view res/layout/activity_transaction_record.xml #generated:23
+# view res/layout/fragment_product_main.xml #generated:19
+-keep class com.gaoshoubang.widget.NavigationTabStrip { <init>(...); }
+
+# view res/layout/dialog_app_update.xml #generated:57
+# view res/layout/dialog_web_pdf_show.xml #generated:45
+-keep class com.gaoshoubang.widget.NumberProgressBar { <init>(...); }
+
+# view res/layout/activity_user_manager.xml #generated:501
+# view res/layout/fragment_my.xml #generated:557
+-keep class com.gaoshoubang.widget.RippleIntroView { <init>(...); }
+
+# view res/layout/fragment_test_risk.xml #generated:20
+-keep class com.gaoshoubang.widget.TabTipsView { <init>(...); }
+
+# view res/layout/calendar_week.xml #generated:11
+# view res/layout/calendar_week.xml #generated:16
+# view res/layout/calendar_week.xml #generated:21
+# view res/layout/calendar_week.xml #generated:26
+# view res/layout/calendar_week.xml #generated:31
+# view res/layout/calendar_week.xml #generated:36
+# view res/layout/calendar_week.xml #generated:6
+-keep class com.gaoshoubang.widget.calendar.CalendarCellView { <init>(...); }
+
+# view res/layout/calendar_month.xml #generated:21
+-keep class com.gaoshoubang.widget.calendar.CalendarGridView { <init>(...); }
+
+# view res/layout/activity_calendar.xml #generated:99
+-keep class com.gaoshoubang.widget.calendar.CalendarPickerView { <init>(...); }
+
+# view res/layout/calendar_month.xml #generated:26
+# view res/layout/calendar_week.xml #generated:2
+-keep class com.gaoshoubang.widget.calendar.CalendarRowView { <init>(...); }
+
+# view res/layout/calendar_month.xml #generated:2
+-keep class com.gaoshoubang.widget.calendar.MonthView { <init>(...); }
+
+# view res/layout/activity_guide.xml #generated:13
+-keep class com.gaoshoubang.widget.circleindicator.CircleIndicator { <init>(...); }
+
+# view res/layout/pop_viewpage_gallery.xml #generated:15
+-keep class com.gaoshoubang.widget.gallery.ClipViewPager { <init>(...); }
+
+# view res/layout/fragment_recommend.xml #generated:31
+-keep class com.gaoshoubang.widget.viewpager.LoopViewPagerLayout { <init>(...); }
+
+# view res/layout/dialog_address_street_wheel.xml #generated:52
+# view res/layout/dialog_address_wheel.xml #generated:51
+# view res/layout/dialog_address_wheel.xml #generated:57
+# view res/layout/dialog_address_wheel.xml #generated:63
+-keep class com.gaoshoubang.widget.wheel.WheelView { <init>(...); }
+
+# view AndroidManifest.xml #generated:269
+-keep class com.gaoshoubang.wxapi.WXEntryActivity { <init>(...); }
+
+# view res/layout/fragment_asset_amount.xml #generated:30
+# view res/layout/fragment_asset_earnings.xml #generated:30
+-keep class com.github.mikephil.charting.charts.PieChart { <init>(...); }
+
+# view AndroidManifest.xml #generated:250
+-keep class com.mob.tools.MobUIShell { <init>(...); }
+
+# view AndroidManifest.xml #generated:232
+-keep class com.photopicker.PhotoPickerActivity { <init>(...); }
+
+# view res/layout/item_photo_layout.xml #generated:7
+-keep class com.photopicker.widgets.SquareImageView { <init>(...); }
+

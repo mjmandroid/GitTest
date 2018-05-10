@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\fingerprint_dialog_logo.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\fingerprint_dialog_logo.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_sel_3.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_sel_3.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\title_share.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\title_share.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\welcome_logo_bottom.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\welcome_logo_bottom.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_account_d.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_account_d.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_nor_5.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_nor_5.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_qq.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_qq.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_aboutandhelp_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_aboutandhelp_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_ly_people_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_ly_people_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_sign_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_sign_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\about_help_about_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\about_help_about_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\binding_arrow.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\binding_arrow.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\cb_bg_false.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\cb_bg_false.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_arrow_gray.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_arrow_gray.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_sel_bg.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_sel_bg.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\show_money.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\show_money.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\ic_launcher_qrcode.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_qrcode.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_qq.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_qq.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\login_bottm_icon_l.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\login_bottm_icon_l.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_sina.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_sina.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\error_tel_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\error_tel_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\menu_product.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\menu_product.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\ico_close_window.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\ico_close_window.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\title_share_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\title_share_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\share_qrcode_bg.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\share_qrcode_bg.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\about_help_faq_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\about_help_faq_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_news_more_bg.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_news_more_bg.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\menu_find_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\menu_find_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_mascot_man.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_mascot_man.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_share_sms_sel.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_share_sms_sel.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_nor_4.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_nor_4.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\modification_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\modification_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\gesture_node_wrong.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\gesture_node_wrong.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_title_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_title_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_share_qq.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_share_qq.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\title_icon_new.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\title_icon_new.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_qzone_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_qzone_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\key_hide.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\key_hide.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\head_round.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\head_round.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_sel_0.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_sel_0.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_register_pw.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_register_pw.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_account_dialog.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_account_dialog.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_phone_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_phone_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\product_madel_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\product_madel_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\menu_my_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\menu_my_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_question_red.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_question_red.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\menu_comment.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\menu_comment.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\recommend_item_default.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\recommend_item_default.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_register_user.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_register_user.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\login_pwd_see_sel.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\login_pwd_see_sel.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_news_more_img.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_news_more_img.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_sel_1.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_sel_1.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\gesture_node_pressed.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\gesture_node_pressed.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\share_qrcode_close.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\share_qrcode_close.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\gesture_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\gesture_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\ico_w_arrow_gray.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\ico_w_arrow_gray.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\binding_logo_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\binding_logo_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_bg_wave.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_bg_wave.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_weibo_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_weibo_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\hide_money.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\hide_money.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\transaction_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\transaction_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_bg.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_bg.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_share_sms.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_share_sms.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\ico_close.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\ico_close.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_register_phone.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_register_phone.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_nor_6.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_nor_6.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_setting_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_setting_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\share_sj_0.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\share_sj_0.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_ly_honour_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_ly_honour_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\guide_fingerprint_my_setting.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\guide_fingerprint_my_setting.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_calender_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_calender_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_sel_4.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_sel_4.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\dialog_gaoge.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\dialog_gaoge.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\problem_phone_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\problem_phone_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_nor_3.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_nor_3.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\menu_product_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\menu_product_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_register_q.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_register_q.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\problem_item_default.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\problem_item_default.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\about_tel_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\about_tel_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\about_help_tel_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\about_help_tel_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\mask_login_2.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\mask_login_2.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_share_sina.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_share_sina.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\fingerprint_pwd.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\fingerprint_pwd.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\popup_default.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\popup_default.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\loading_1.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\loading_1.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\protuct_que_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\protuct_que_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\menu_find.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\menu_find.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\title_icon_stability.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\title_icon_stability.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_url_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_url_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\gesture_pattern_node_pressed.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\gesture_pattern_node_pressed.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_gaoshoubi_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_gaoshoubi_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\login_bottm_icon_r.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\login_bottm_icon_r.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_invest_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_invest_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\mask_login_1.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\mask_login_1.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\title_back_r_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\title_back_r_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_pyq_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_pyq_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_share_url.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_share_url.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_on.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_on.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\login_bottm_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\login_bottm_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_ly_bbs_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_ly_bbs_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\gaoshoubi_bg.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\gaoshoubi_bg.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_share_url_sel.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_share_url_sel.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_btn.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_btn.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\title_icon_flexible.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\title_icon_flexible.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\menu_comment_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\menu_comment_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\hongbao_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\hongbao_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_bg.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_bg.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\not_net_bg.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\not_net_bg.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\guide_fingerprint_toggle.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\guide_fingerprint_toggle.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\gonggao.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\gonggao.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\black.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\black.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\deposit.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\deposit.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_hongbao_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_hongbao_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\about_help_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\about_help_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_weixin.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_weixin.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\modified_data.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\modified_data.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\phone.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_star_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_star_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_nor_1.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_nor_1.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_record_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_record_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\share_message_btn_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\share_message_btn_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\title_back_r.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\title_back_r.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_team_img.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_team_img.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_pyq.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_pyq.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_sel_6.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_sel_6.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\invite_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\invite_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_nor_2.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_nor_2.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\problem_arrow.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\problem_arrow.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\login_pwd_see_nor.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\login_pwd_see_nor.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\assessment_result_bg.9.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\assessment_result_bg.9.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\asset_arrow.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\asset_arrow.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\about_email_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\about_email_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\mask_login_3.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\mask_login_3.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_haveno.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_haveno.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_sel_5.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_sel_5.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_weibo.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_weibo.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_mascot_woman.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_mascot_woman.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_ly_conversion_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_ly_conversion_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\risk_evaluation.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\risk_evaluation.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_qq_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_qq_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_wechat.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_wechat.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\product_profit_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\product_profit_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\gesture_pattern_node_normal.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\gesture_pattern_node_normal.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\menu_my.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\menu_my.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_code_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_code_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\asset_idle_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\asset_idle_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_close.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_close.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\set_gender_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\set_gender_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_off.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_off.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\sign_dialog_sel_2.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\sign_dialog_sel_2.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_message_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_message_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_share_weixin_prs.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_share_weixin_prs.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\risk_assessment.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\risk_assessment.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\icon_notice_close.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\icon_notice_close.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\share_qrcode_bg_1.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\share_qrcode_bg_1.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\loading_0.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\loading_0.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_drag_img.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_drag_img.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\find_ly_grade_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\find_ly_grade_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\gesture_node_normal.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\gesture_node_normal.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\cb_bg_true.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\cb_bg_true.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\my_account_img.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\my_account_img.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\share_invite_btn_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\share_invite_btn_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\drawable-xxhdpi\\guide_1_bg.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\drawable-xxhdpi\\guide_1_bg.png"
+    }
+]

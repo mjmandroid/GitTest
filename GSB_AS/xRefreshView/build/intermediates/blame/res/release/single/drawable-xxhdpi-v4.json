@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\header_finish_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\src\\main\\res\\drawable-xxhdpi\\header_finish_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\header_icon.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\src\\main\\res\\drawable-xxhdpi\\header_icon.png"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\edit\\demo\\GSB_AS\\xRefreshView\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\xml\\file_paths.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\res\\merged\\1001\\debug\\xml\\softkeyboard.xml",
+        "source": "D:\\edit\\demo\\GSB_AS\\GSB\\src\\main\\res\\xml\\softkeyboard.xml"
+    }
+]

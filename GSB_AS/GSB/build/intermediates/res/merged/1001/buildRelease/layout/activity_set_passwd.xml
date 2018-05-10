@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#f3f3f3"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <com.gaoshoubang.widget.CommonTitleBar
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#fff"
+        android:text="修改登录密码"
+        android:textColor="#333333"
+        android:textSize="16sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@drawable/shape_corner_bg"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/set_password_old_pwd"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:hint="请输入原登陆密码"
+            android:inputType="textPassword"
+            android:maxLength="16"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textColor="#000"
+            android:textColorHint="#c7c7c7"
+            android:textSize="14sp"/>
+
+        <View style="@style/line"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <EditText
+                android:id="@+id/set_password_new_pwd"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:hint="6-20个字符，区分大小写"
+                android:inputType="textPassword"
+                android:maxLength="16"
+                android:textColor="#000"
+                android:textColorHint="#c7c7c7"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:visibility="gone"
+                android:id="@+id/set_password_showpwd"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="隐藏"
+                android:textColor="#4c90f6"
+                android:textSize="14sp"/>
+        </LinearLayout>
+        <View style="@style/line"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <EditText
+                android:id="@+id/set_password_affirm_pwd"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:hint="6-20个字符，区分大小写"
+                android:inputType="textPassword"
+                android:maxLength="16"
+                android:textColor="#000"
+                android:textColorHint="#c7c7c7"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="隐藏"
+                android:textColor="#4c90f6"
+                android:textSize="14sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/set_password_next"
+        style="@style/btn_style"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="30dp"
+        android:text="确认修改"/>
+
+</LinearLayout>

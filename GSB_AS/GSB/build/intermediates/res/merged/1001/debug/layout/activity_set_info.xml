@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#f3f3f3"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <com.gaoshoubang.widget.CommonTitleBar
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/info_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#fff"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        app:isShowLeftText="true"
+        app:leftText="修改资料"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/ll_email_tips"
+        android:visibility="gone"
+        >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:text="已将邮箱验证码发送至您的邮箱了。"
+            android:textColor="#929292"
+            android:textSize="13sp"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#dadada"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_margin="7dp"
+        android:background="@drawable/shape_corner_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.gaoshoubang.widget.ClearEditText
+            android:id="@+id/info_edit"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textColor="#000"
+            android:textColorHint="#929292"
+            android:textSize="14sp"/>
+
+        <ImageView
+            android:id="@+id/info_edit_clear"
+            android:layout_width="17dp"
+            android:layout_height="17dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/ico_close"
+            android:visibility="invisible"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/info_next"
+        style="@style/btn_style"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="25dp"
+        android:text="确认修改"/>
+
+</LinearLayout>

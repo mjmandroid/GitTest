@@ -1,0 +1,7 @@
+#Tue Mar 06 10:52:23 CST 2018
+base.0=D\:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\transforms\\dex\\1001\\debug\\folders\\1000\\10000\\instant-run_e76bb1987d793f4625990accb2b3fdf864afe16d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\transforms\\dex\\1001\\debug\\folders\\1000\\10000\\instant-run-bootstrap_adb68db1468e5b3c7ed1e57c7037b82a05ef28ff\\classes.dex
+base.1=D\:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\transforms\\dex\\1001\\debug\\folders\\1000\\10000\\instant-run-bootstrap_adb68db1468e5b3c7ed1e57c7037b82a05ef28ff
+file.0=D\:\\edit\\demo\\GSB_AS\\GSB\\build\\intermediates\\transforms\\dex\\1001\\debug\\folders\\1000\\10000\\instant-run_e76bb1987d793f4625990accb2b3fdf864afe16d\\classes.dex

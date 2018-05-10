@@ -1,0 +1,83 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#ffffff"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <include layout="@layout/tabbar_layout"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#cbcbcb"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridView
+            android:id="@+id/photo_gridview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/bottom_tab_bar"
+            android:layout_alignParentTop="true"
+            android:background="#ececec"
+            android:cacheColorHint="@android:color/transparent"
+            android:horizontalSpacing="3dp"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="4"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:paddingTop="2dp"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="3dp">
+        </GridView>
+
+        <RelativeLayout
+            android:id="@+id/bottom_tab_bar"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignParentBottom="true"
+            android:background="#f8f8f8">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_alignParentTop="true"
+                android:background="#cbcbcb"/>
+
+            <TextView
+                android:id="@+id/floder_name"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/text_indicator_selector"
+                android:gravity="center"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:text="全部图片"
+                android:textColor="@color/floder_name_color_selector"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:id="@+id/photo_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="12dp"
+                android:text="1024张"
+                android:textColor="#2d2d2d"
+                android:textSize="16sp"/>
+        </RelativeLayout>
+
+        <ViewStub
+            android:id="@+id/floder_stub"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/bottom_tab_bar"
+            android:layout="@layout/fload_list_layout_stub"/>
+    </RelativeLayout>
+
+</LinearLayout>

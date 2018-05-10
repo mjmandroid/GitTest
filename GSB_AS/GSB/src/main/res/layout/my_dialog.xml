@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="100dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/my_account_dialog"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:gravity="center_horizontal"
+            android:text="开通银行存管账号"
+            android:textColor="@color/common_black_color_3"
+            android:textSize="@dimen/text_size_30" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/my_dialog"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/tv_t2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/text_size_25"
+                android:gravity="center_vertical"
+                android:paddingBottom="@dimen/text_size_15"
+                android:paddingLeft="@dimen/text_size_15"
+                android:paddingRight="@dimen/text_size_15"
+                android:text="您尚未开通上海银行存管账号,开通后方可进行充值,投资,体现等账户相关的操作!"
+                android:textColor="@color/common_black_color_3"
+                android:textSize="@dimen/text_size_18" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_marginTop="@dimen/text_size_25"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingBottom="@dimen/text_size_15"
+                android:paddingLeft="@dimen/text_size_15"
+                android:paddingRight="@dimen/text_size_15"
+                android:text="*上海银行为高搜易提供资金存管服务，交易资金全程有银行监管，安全有保障!"
+                android:textColor="@color/user_managerenot"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_to_page"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="@dimen/text_size_15"
+            android:gravity="center_horizontal|right"
+            android:src="@drawable/my" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="310dp"
+        android:paddingLeft="@dimen/text_size_25"
+        android:paddingRight="@dimen/text_size_15"
+        android:paddingTop="@dimen/text_size_15"
+        android:src="@drawable/btn_guanbi02"
+        android:visibility="visible" />
+
+</LinearLayout>

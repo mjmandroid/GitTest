@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#f2f2f2"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <com.gaoshoubang.widget.CommonTitleBar
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#fff"
+        android:text="常见问题"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        app:isShowLeftText="true"
+        app:leftText="关于与帮助"/>
+
+    <ExpandableListView
+        android:id="@+id/problem_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#fff"
+        android:childDivider="#00000000"
+        android:divider="#e3e3e3"
+        android:dividerHeight="1.5px"
+        android:groupIndicator="@null"/>
+
+    <TextView
+        android:id="@+id/problem_phone"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:drawableLeft="@drawable/problem_phone_icon"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="400-0685-333"
+        android:textColor="#666666"
+        android:textSize="15sp"/>
+
+</LinearLayout>

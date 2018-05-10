@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EEEFF1"
+
+    >
+
+    <TextView
+        android:id="@+id/finish_risk_tv_show_risk_note"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/finish_risk_show_instruction"
+        android:textColor="#DC2D2B"
+        />
+
+    <TextView
+        android:layout_above="@id/finish_risk_tv_show_risk_note"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/finish_risk_show_hint"
+        android:textColor="#AA000000"
+        android:layout_centerHorizontal="true"
+        />
+
+    <LinearLayout
+        android:id="@+id/ll_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:orientation="vertical"
+        android:padding="15dp"
+        >
+
+        <ImageView
+            android:id="@+id/finish_risk_imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/risk_assessment"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+
+            <TextView
+                android:id="@+id/finish_risk_result_hint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/finish_risk_result_hint"
+                android:textColor="#DD000000"
+                android:textSize="18sp"
+                />
+
+            <TextView
+                android:id="@+id/finish_risk_tv_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:textSize="22sp"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/finish_risk_tv_result_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/assessment_result_bg"
+            android:paddingLeft="10dp"
+            android:paddingTop="20dp"
+            android:textColor="#AA000000"
+            />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/finish_risk_btn_to_invest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_container"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_selector"
+        android:text="@string/finish_risk_to_invest"
+        android:textColor="#fff"
+        />
+
+    <Button
+        android:id="@+id/finish_risk_btn_redo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/finish_risk_btn_to_invest"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_red__bg"
+        android:text="@string/finish_risk_redo"
+        android:textColor="#d93d3d"
+        />
+
+
+</RelativeLayout>
